@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aptechabdulhadi-cmyk.github.io/E-project-final-13/sitemap.xml
